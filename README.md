@@ -2,14 +2,15 @@
 Traffic light simulation on proteus using arduino IDE
 ## ABSTRACT:
 ```
-Traffic light simulations are vital tools for testing and validating traffic control systems in a safe and controlled environment.
-This abstract presents a study on the implementation of a traffic light simulation using the Proteus software and 
-Arduino IDE. The objective is to replicate real-world traffic scenarios and observe the behavior of the traffic lights
+Traffic light simulations are vital tools for testing and validating traffic control
+systems in a safe and controlled environment. This abstract presents a study on the implementation 
+of a traffic light simulation using the Proteus software and Arduino IDE. The objective is to 
+replicate real-world traffic scenarios and observe the behavior of the traffic lights
 in response to varying traffic conditions.
 
-The simulation system consists of an Arduino microcontroller board, LEDs to represent the traffic lights, and appropriate
-circuitry to control the sequencing and timing of the lights. The Arduino IDE is utilized to program the microcontroller,
-enabling the execution of predefined traffic light sequences.
+The simulation system consists of an Arduino microcontroller board, LEDs to represent the 
+traffic lights, and appropriate circuitry to control the sequencing and timing of the lights.
+The Arduino IDE is utilized to program the microcontroller,enabling the execution of predefined traffic light sequences.
 
 The simulation is designed to emulate the three-color traffic light system, including green, yellow, and red lights.The 
 traffic light timing is synchronized to simulate realistic traffic flow patterns, such as green lights allowing traffic to flow 
@@ -206,7 +207,8 @@ study and improve traffic flow in a controlled and safe environment.
 ```
 
 ## REFERENCE:
-```
 
-```
+www.youtube.com
+www.google.com
+
 
